@@ -1,0 +1,12 @@
+* { border-box;
+}
+
+main {
+  padding: 15px;
+  display: grid; 
+}
+
+body {
+  margin: auto;
+  width: 100%;
+}

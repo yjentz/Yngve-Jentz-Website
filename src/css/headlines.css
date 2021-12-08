@@ -1,0 +1,22 @@
+header {
+  display: block;
+  background-color: aliceblue;
+  padding: 60px 0;
+  align-items: center;
+}
+
+.headline {
+  color: blueviolet;
+  background-color: aliceblue;
+  font-size: 3em;
+  font-family: "Oswald", sans-serif;
+  text-align: center;
+  margin: 20px;
+  width: 100%;
+}
+
+.links {
+  color: blueviolet;
+  font-size: 1.4em;
+  padding: 15px;
+}
